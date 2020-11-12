@@ -133,4 +133,4 @@ dmypy.json
 .idea/modules.xml
 .idea/recipe-api.iml
 .idea/vcs.xml
-app/core/
+/app/core/migrations/
